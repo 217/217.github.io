@@ -1,4 +1,4 @@
-# 217.github.io (217.js.org)
+# 217.github.io
 
 develop web app using js! fullstatck js!
 

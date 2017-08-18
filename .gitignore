@@ -141,3 +141,4 @@ assets/templates/irc.jsmenu
 ####################################
 sails-docs
 modulus-auto-zip*
+.DS_Store

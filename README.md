@@ -2,6 +2,7 @@
 
 develop web app using js! fullstatck js!
 
+![217-logo](https://raw.githubusercontent.com/217/217.github.io/master/217.svg)
 Table of Contents
 ----
 - [Who Are We](https://github.com/217/217.github.io#who-are-we)
@@ -15,5 +16,5 @@ If you ever see something on any repo that you feel could be improved, feel free
 
 If you want to join in, let me read your code first.
 
-# creed
+# Creed
 open source, free work
